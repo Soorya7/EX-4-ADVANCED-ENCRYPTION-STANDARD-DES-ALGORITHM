@@ -42,7 +42,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-<img width="959" alt="ex7" src="https://github.com/user-attachments/assets/23418250-c726-411a-88d7-185dbdd1af7f">
+![image](https://github.com/user-attachments/assets/383ffd86-958d-44b8-b9dc-15c5e35fc725)
+
 
 ## RESULT: 
 Thus the Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
